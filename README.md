@@ -1,6 +1,6 @@
 # Python Basics
 
-This repository is a concise yet comprehensive guide tailored for beginners to learn the essentials of Python programming. It covers fundamental topics such as variables, loops, functions, data structures, if statements, and file handling. And also I uploaded a PDF file for proper code and notes [https://github.com/Thwarted-Pentester/Python-Basics/blob/main/Python%20Basics.pdf](Python Basics.pdf) 
+This repository is a concise yet comprehensive guide tailored for beginners to learn the essentials of Python programming. It covers fundamental topics such as variables, loops, functions, data structures, if statements, and file handling. And also I uploaded a PDF file for proper code and notes [Python Basics.pdf](https://github.com/Thwarted-Pentester/Python-Basics/blob/main/Python%20Basics.pdf)
 
 ## Variables
 
